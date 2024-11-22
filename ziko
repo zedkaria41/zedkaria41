@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main () {
+int x;
+printf ("tapez un numero pour verefier sa parite :") ;
+scanf ("%d",&xx) ;
+if (x % 2 ==0)
+printf (" votre nomber est : PAIR \n") ;
+else 
+printf(" votre nomber est : IMPAIR \n") ;
+return 0;
+}
